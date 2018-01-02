@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	border: 0;
+	font-family: 'Questrial', sans-serif;
+}
+
+.grad50{
+	background: linear-gradient(to bottom right,rgb(83, 0, 96)15%,rgb(226,10, 138));
+	height: 100vh;
+}
+
+.flex{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+}
+
+[alt="logo-white"]{
+	width: 60vw;
+}
+
+/* estilos para la vista principal*/
+.view-principal{
+	height: 80vw;
+}
+
+.color{
+	background: #f3f3f5;
+}
+
+[alt="heart"]{
+	width: 100vw;
+	margin-top: 7vw;
+}
+
+.pink{
+	background: #ff00bf;
+	padding: 3vw;
+	color: #fff;
+}
+
+#country{
+	width: 15vw;
+}
+
+#country img{
+	
+}
+
+.dropdown img{
+	width: 14vw;
+}
